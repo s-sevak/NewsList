@@ -1,0 +1,14 @@
+# Исключение файлов IDE PHPStorm
+.idea/
+
+# Игнорирование кэша Composer
+vendor/
+
+# Игнорирование загруженных зависимостей Composer
+composer.lock
+
+# Игнорирование файлов настроек PHPStorm
+*.iml
+*.ipr
+*.iws
+.idea/
